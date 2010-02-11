@@ -1,0 +1,15 @@
+*.pyc
+*.pyo
+*~
+.DS_Store
+rdb.egg-info
+__db.001
+data.db
+benchgen
+log.0000000001
+Makefile
+benchgen.c
+do_bench.sh
+benchgen.sh
+bench.py
+do_image.sh
