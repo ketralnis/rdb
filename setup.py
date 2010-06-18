@@ -13,10 +13,9 @@ except ImportError:
 
 setup(name='rdb',
       version='0.1',
-      description='reddit caching database',
-      author='reddit',
-      author_email='reddit-dev@googlegroups.com',
-      url='http://code.reddit.com/',
+      description='rdb key value database',
+      author='ketralnis',
+      author_email='ketralnis@reddit.com',
       install_requires=['python-memcached',
                         'bsddb3',
                         'urllib3'],
